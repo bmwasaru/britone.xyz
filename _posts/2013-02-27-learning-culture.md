@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Learning Culture"
+date: 2013-02-27 21:06:46
+tags: ["education", "schooling", "Self-learning", "time"]
+---
+
+September 2012, after holiday break from the University , I introduced an idea of starting a programming group to my classmates. We were beginners in writing code. I had thought of this thoroughly as I was aiming at encouraging a culture of self-learning where my friends and I can learn stuff that are not necessarily going to be taught in class. Started as a group of four now six. After a week or so, a guy left citing that he was not able to give time on his classwork. I told the other that whoever felt that s/he was not seeing the value of the group work they are allowed to leave. "If you want something really bad you would create time" this was what I told everyone. Time is no excuse
+We started with Web Designing with HTML at codeacademy.com for the basics and to get us interested with HTML and CSS. A while later we got into other resources with an in depth coverage. We designed simple sites and dedicated more time to learning. Uncertainty started creeping in, most wondered if they should really get into programming as there is the other option of Information Technology infrastructure, networking, again it was evident they were more worried about staying on course with the University curriculum.  I thought I should go through the curriculum with them making it evident that what we are thought is introduction into a language nothing deeper. Now in second year we have being introduced to four languages which were left behind each new semester.
+My main goal was still to encourage the culture of self learning. Now I have got three friends who are so into programming that they never pass a day without learning and writing new code lines. The rest still either not sure of what they want to do in life or busy with school work, chasing A's and the first honors. Well, my grades have lowered since I started spending time self-learning but its all worth it because if I rely solely on my schooling I will not get where I need to be.
+Am not going to let my schooling interfere with my education. :-)
